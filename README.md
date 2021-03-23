@@ -1,7 +1,8 @@
-*THIS REPO IS USING OLD TOOLS AND SHOULD BE CONSIDERED DEPRECATED.*
-If you are interested in ethereum PoA or prviate setup, you should look at the go-ethereum project.
+*THIS REPO WAS UPDATED SHOULD BE CONSIDERED AS HIGHLY EXPERIMENTAL.*
+If you are interested in Ethereum PoA or private setup, you should look at the OpenEthereum project and visit
+our discord https://discord.gg/5hZCddxW. 
 
-# Parity PoA setup
+# OpenEthereum setup
 
 ## Build the docker image
 
